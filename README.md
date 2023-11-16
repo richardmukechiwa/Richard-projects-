@@ -1,2 +1,2 @@
-# Richard-projects-
+# Richard-projects
 Data analysis project portfolio
